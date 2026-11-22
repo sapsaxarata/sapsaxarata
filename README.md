@@ -1,7 +1,6 @@
 a repository that is a work in progress.
 
 
-[![Listen on Spotify](./path-to-cover.jpg)]([YOUR_PLAYLIST_URL](https://open.spotify.com/playlist/4oqdgKCoFHLsiOKoeG8fb2))
 
 
 
